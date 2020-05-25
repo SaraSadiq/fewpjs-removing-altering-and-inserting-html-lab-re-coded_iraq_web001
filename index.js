@@ -1,3 +1,3 @@
 // Write your code here!
 s=document.getElementsByTagName('main')
-s.remove
+s.parentNode.removeChild(elem);

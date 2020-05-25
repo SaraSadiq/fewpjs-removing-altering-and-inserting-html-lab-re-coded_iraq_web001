@@ -1,2 +1,3 @@
 // Write your code here!
-main.remove()
+s=document.getElementsByTagName('main')
+s.remove

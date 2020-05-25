@@ -1,2 +1,2 @@
 // Write your code here!
-main.Remove(document.getElementById("main"));
+main.removeChild(document.getElementById("main"));

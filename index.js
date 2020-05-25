@@ -1,2 +1,2 @@
 // Write your code here!
-main.Remove(document.selectelementbyid(main))
+main.Remove(document.getElementById("main"));
